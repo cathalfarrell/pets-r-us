@@ -1,0 +1,6 @@
+accessModifier: public
+
+# Optional, but useful if you only want specific kinds of files
+generate:
+  - client
+  - types
